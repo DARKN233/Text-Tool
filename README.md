@@ -1,0 +1,2 @@
+# Text-Tool
+学习了Python自己练手写的代码，用Pyintaller打包成为了exe文件，现在测试发现没有BUG就发到GitHub上面
